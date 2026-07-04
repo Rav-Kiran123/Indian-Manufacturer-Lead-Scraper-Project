@@ -9,7 +9,7 @@ Finally, the collected data is saved into:
 CSV file
 Excel file
 
-Technologies Used
+Technologies Used: 
 Python
 Pandas
 Requests
@@ -17,6 +17,6 @@ BeautifulSoup
 OpenPyXL
 Jupyter Notebook
 
-Output
+Output:
 The final output is a spreadsheet containing 100 Indian manufacturers with useful business information.
 This file can be used by founders, students, researchers, or business teams to explore potential manufacturing partners in India.
