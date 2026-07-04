@@ -11,11 +11,11 @@ CSV file
 Excel file
 
 Technologies Used: 
-Python
-Pandas
-Requests
+Python,
+Pandas, 
+Requests, 
 BeautifulSoup
-OpenPyXL
+OpenPyXL, 
 Jupyter Notebook
 
 Output:
