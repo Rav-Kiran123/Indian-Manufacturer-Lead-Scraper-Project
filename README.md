@@ -1,6 +1,7 @@
 # Indian-Manufacturer-Lead-Scraper-Project
 This project is a Python-based web scraping tool that collects information about 100 Indian manufacturers who can support Indian founders, startups, and business clients. The main purpose of this project is to make supplier research easier. 
-How It Works
+
+How It Works: 
 The code first tries to search the web for manufacturer websites.
 Then it checks whether the website looks like a real manufacturer by looking for manufacturing-related words.
 After that, it extracts useful information from the website text, such as certifications, production capacity, packaging support, logistics support, and lead time.
